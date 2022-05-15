@@ -1,0 +1,42 @@
+[
+  {
+    "title": "用户中心",
+    "children": [
+      {
+        "id": 1,
+        "title": "基本资料",
+        "path": "/home/userinfo"
+      },
+      {
+        "id": 2,
+        "title": "重置密码",
+        "path": "/home/password"
+      },
+      {
+        "id": 3,
+        "title": "更换头像",
+        "path": "/home/avatar"
+      }
+    ]
+  },
+  {
+    "title": "文章管理",
+    "children": [
+      {
+        "id": 4,
+        "title": "文章类别",
+        "path": "/home/artcate"
+      },
+      {
+        "id": 5,
+        "title": "文章列表",
+        "path": "/home/article"
+      },
+      {
+        "id": 6,
+        "title": "发布文章",
+        "path": "/home/publishArt"
+      }
+    ]
+  }
+]
